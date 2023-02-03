@@ -1,13 +1,13 @@
-# Caesar Cipher in Ruby 💎
-A simple implementation of the Caesar Cipher written in Ruby programming language.
+# Caesar's Cipher in Ruby 💎
+A simple implementation of the Caesar's Cipher written in Ruby programming language.
 
 ## Description
-The Caesar Cipher is one of the simplest and most widely known encryption techniques. It is a substitution cipher in which each letter in the plaintext is shifted a certain number of places down the alphabet.
+The Caesar's Cipher is one of the simplest and most widely known encryption techniques. It is a substitution cipher in which each letter in the plaintext is shifted a certain number of places down the alphabet.
 
 ## Usage
 To use the code, you can clone this repository and run the file `v2.rb`. You will start the CLI that guide you to the usage and operations possible.
 
-Otherwise, you can just run or add the `caesar-cipher.rb` in your code and call the function as this:
+Otherwise, you can just run or add the `caesar_cipher.rb` in your code and call the function as this:
 ```ruby
 
 caesar_cipher(string, shift_factor, operation)
